@@ -49,7 +49,7 @@ public class DayTwo {
     }
 
     public static void main(String[] args) throws FileNotFoundException {
-        File file = new File("../input2.txt");
+        File file = new File("inputs/input2.txt");
 
         Scanner scan = new Scanner(file);
         
