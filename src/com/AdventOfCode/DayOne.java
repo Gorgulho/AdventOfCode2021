@@ -34,7 +34,7 @@ public class DayOne {
     }
 
     public static void main(String[] args) throws FileNotFoundException {
-	    File file = new File("../input1.txt");
+	    File file = new File("inputs/input1.txt");
         int res;
 
         //Problem 1/2 from day 1
