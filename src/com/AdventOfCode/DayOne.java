@@ -37,11 +37,11 @@ public class DayOne {
 	    File file = new File("../input1.txt");
         int res;
 
-        //problem 1/2 from day 1
+        //Problem 1/2 from day 1
         res = countIncreases(file);
         System.out.println(res);
 
-        //problem 2/2 from day 1
+        //Problem 2/2 from day 1
         Scanner scan = new Scanner(file);
 
         int[] arr = new int[2000];
